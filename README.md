@@ -21,5 +21,6 @@ Este projeto é uma aplicação simples de conta bancária desenvolvida em Java.
    ```bash
    javac App.java Conta.java Cliente.java
 2. **Execute a Aplicação**:
+   ```bash
    java App
 
